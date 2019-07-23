@@ -5,8 +5,8 @@
     <description>The Liberal Jekyll Theme</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Jul 2019 11:45:49 +0900</pubDate>
-    <lastBuildDate>Tue, 23 Jul 2019 11:45:49 +0900</lastBuildDate>
+    <pubDate>Tue, 23 Jul 2019 12:25:37 +0900</pubDate>
+    <lastBuildDate>Tue, 23 Jul 2019 12:25:37 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -42,44 +42,6 @@
       </item>
     
       <item>
-        <title>Long Longer and more Longer titles look cool too!!</title>
-        <description>&lt;p&gt;“Could I be anymore pulling ?”&lt;/p&gt;
-
-&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Mar 2016 23:15:31 +0900</pubDate>
-        <link>http://localhost:4000/science/2016/03/30/science0.html</link>
-        <guid isPermaLink="true">http://localhost:4000/science/2016/03/30/science0.html</guid>
-        
-        
-        <category>science</category>
-        
-      </item>
-    
-      <item>
-        <title>Science of Gravity</title>
-        <description>&lt;p&gt;“Could I be anymore pulling ?”&lt;/p&gt;
-
-&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Mar 2016 23:15:31 +0900</pubDate>
-        <link>http://localhost:4000/science/2016/03/30/science.html</link>
-        <guid isPermaLink="true">http://localhost:4000/science/2016/03/30/science.html</guid>
-        
-        
-        <category>science</category>
-        
-      </item>
-    
-      <item>
         <title>Design Stories : Gravity</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
 
@@ -103,8 +65,8 @@
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;테스트&lt;/p&gt;
+        <title>블로그가 거기서 왜 나요?</title>
+        <description>&lt;p&gt;데이터 사이언스의 시작 – 블로그 !!!&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Nov 2015 07:16:01 +0900</pubDate>
         <link>http://localhost:4000/jekyll/update/2015/11/18/test.html</link>
