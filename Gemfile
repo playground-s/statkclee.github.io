@@ -1,12 +1,10 @@
-# 참고: https://stackoverflow.com/questions/47046526/jekyll-v-error-bundlergemnotfound
-# frozen_string_literal: true
-
-source "https://rubygems.org"
-
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-
-# gem "rails"
-
-ruby "2.6.3"
-
-gem 'github-pages' 
+source 'https://rubygems.org'
+group :jekyll_plugins do
+    gem 'github-pages'
+    gem 'jekyll'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-paginate'
+    gem 'jekyll-scholar'
+    gem 'jemoji'
+    gem 'unicode_utils'
+end
